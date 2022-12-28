@@ -1,0 +1,74 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 56;
+	objects = {
+
+/* Begin PBXFileReference section */
+		9F000DB2295C44300050E763 /* Heap.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Heap.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+/* End PBXFileReference section */
+
+/* Begin PBXGroup section */
+		9F000DAB295C44210050E763 = {
+			isa = PBXGroup;
+			children = (
+				9F000DB2295C44300050E763 /* Heap.playground */,
+			);
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXProject section */
+		9F000DAC295C44210050E763 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				BuildIndependentTargetsInParallel = 1;
+				LastUpgradeCheck = 1420;
+			};
+			buildConfigurationList = 9F000DAF295C44210050E763 /* Build configuration list for PBXProject "HeapPriorityQueueInstance" */;
+			compatibilityVersion = "Xcode 14.0";
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 9F000DAB295C44210050E763;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+			);
+		};
+/* End PBXProject section */
+
+/* Begin XCBuildConfiguration section */
+		9F000DB0295C44210050E763 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+			};
+			name = Debug;
+		};
+		9F000DB1295C44210050E763 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		9F000DAF295C44210050E763 /* Build configuration list for PBXProject "HeapPriorityQueueInstance" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				9F000DB0295C44210050E763 /* Debug */,
+				9F000DB1295C44210050E763 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 9F000DAC295C44210050E763 /* Project object */;
+}
